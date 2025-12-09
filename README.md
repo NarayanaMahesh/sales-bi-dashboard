@@ -26,6 +26,14 @@ A small repo that provides a data pipeline and BI tooling for sales Excel files.
 1. Create a virtual environment and install dependencies from `requirements.txt`.
 2. Place your Excel files in the project root or in `data/` and run:
 
+## Outputs
 
+cleaned_sales.xlsx
+
+sales_summary.xlsx
+
+sales_dashboard.html
+
+profiling_report.html
 ```bash
 python main.py
