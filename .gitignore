@@ -1,0 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+
+# Data files (do not commit large raw data)
+data/
+*.xlsx
+*.xls
+
+
+# Colab and notebook outputs
+.ipynb_checkpoints/
+*.html
+profiling_report.html
+sales_dashboard.html
+
+
+# Virtual env
+venv/
+.env
+
+
+# OS files
+.DS_Store
+Thumbs.db
